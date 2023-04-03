@@ -1,15 +1,15 @@
-2023-04-02 23:06:45,884  INFO [main] POMTest:66 - Lunch URL
-2023-04-02 23:06:46,038  INFO [main] POMTest:31 - Enter Username
-2023-04-02 23:06:46,123  INFO [main] POMTest:33 - Enter Password
-2023-04-02 23:06:50,627  INFO [main] POMTest:36 - Click on Login button
-2023-04-02 23:06:50,643  INFO [main] POMTest:60 - Login Test Pass
-2023-04-02 23:06:51,134 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
-2023-04-02 23:06:51,134 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
-2023-04-02 23:06:51,134 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-2023-04-02 23:06:51,148 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-2023-04-02 23:06:51,148 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shankar%20Maity/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-2023-04-02 23:06:51,448 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
-2023-04-02 23:06:51,448 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
-2023-04-02 23:06:51,448 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-2023-04-02 23:06:51,463 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-2023-04-02 23:06:51,463 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shankar%20Maity/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-04-03 21:26:58,624  INFO [main] POMTest:69 - Lunch URL
+2023-04-03 21:26:58,784  INFO [main] POMTest:31 - Enter Username
+2023-04-03 21:26:58,869  INFO [main] POMTest:33 - Enter Password
+2023-04-03 21:27:04,051  INFO [main] POMTest:36 - Click on Login button
+2023-04-03 21:27:04,070  INFO [main] POMTest:60 - Login Test Pass
+2023-04-03 21:27:04,685 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2023-04-03 21:27:04,690 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2023-04-03 21:27:04,693 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-04-03 21:27:04,694 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-04-03 21:27:04,696 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shankar%20Maity/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-04-03 21:27:05,016 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2023-04-03 21:27:05,016 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2023-04-03 21:27:05,028 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-04-03 21:27:05,028 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-04-03 21:27:05,028 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Shankar%20Maity/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

@@ -14,6 +14,8 @@ import org.openqa.selenium.support.events.EventFiringWebDriver;
 
 import com.pom.utils.WebEventListener;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 
 public class TestBase {
 	
@@ -52,7 +54,8 @@ public class TestBase {
 		logger = Logger.getLogger("POMTest");
 		PropertyConfigurator.configure("Log4j.properties");
 		
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Shankar Maity\\eclipse-workspace\\POMTest\\driver\\chromedriver.exe");
+//		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Shankar Maity\\eclipse-workspace\\POMTest\\driver\\chromedriver.exe");
+		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
 		
 		e_driver = new EventFiringWebDriver(driver);

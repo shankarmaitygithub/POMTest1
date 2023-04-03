@@ -34,7 +34,7 @@ public class LoginPageTest extends TestBase{
 		String title=driver.getTitle();
 		System.out.println(title);
 //		Assert.assertEquals(title, "Guru99 Bank Manager HomePage", "Title not match");
-		if(title.equals("Guru992 Bank Manager HomePage"))
+		if(title.equals("Guru99 Bank Manager HomePage"))
 		{
 			Assert.assertTrue(true);
 			logger.info("Login Test Pass");

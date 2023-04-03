@@ -11,6 +11,7 @@
           <include name="setUp"/>
           <include name="LoginTest"/>
           <include name="tearDown"/>
+          <include name="loginTest1"/>
         </methods>
       </class> <!-- com.pom.test.LoginPageTest -->
     </classes>
