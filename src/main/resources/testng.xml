@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Guru99 Automation test" >
+
+
+    <listeners>
+		<listener class-name="com.pom.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+
+	<test name= "Guru99 Test">	
+		<classes>
+
+				<class name= "com.pom.test.LoginPageTest"/>
+				
+
+
+
+		</classes>
+
+	</test>
+
+</suite>

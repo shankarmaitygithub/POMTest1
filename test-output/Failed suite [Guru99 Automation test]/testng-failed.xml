@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Guru99 Automation test]]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.pom.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test name="Guru99 Test(failed)(failed)">
+    <classes>
+      <class name="com.pom.test.LoginPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="LoginTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.pom.test.LoginPageTest -->
+    </classes>
+  </test> <!-- Guru99 Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Guru99 Automation test]] -->
